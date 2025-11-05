@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/happybirthdayrina/static/css/main.2f42d482.css",
+    "main.js": "/happybirthdayrina/static/js/main.b2648979.js",
+    "static/js/453.5b464602.chunk.js": "/happybirthdayrina/static/js/453.5b464602.chunk.js",
+    "static/media/birthday-song.mp3": "/happybirthdayrina/static/media/birthday-song.1e6b1ffb7c6953f4548d.mp3",
+    "static/media/Cake_3_candle.png": "/happybirthdayrina/static/media/Cake_3_candle.9aff3b87c0077f427eeb.png",
+    "static/media/Cake_5_candle.png": "/happybirthdayrina/static/media/Cake_5_candle.9aff3b87c0077f427eeb.png",
+    "static/media/Cake_1_candle.png": "/happybirthdayrina/static/media/Cake_1_candle.cac0d87c7aee8997a1c7.png",
+    "static/media/Cake_7_candle.png": "/happybirthdayrina/static/media/Cake_7_candle.cac0d87c7aee8997a1c7.png",
+    "static/media/Cake_4_candle.png": "/happybirthdayrina/static/media/Cake_4_candle.55fa73731dab6269e1d1.png",
+    "static/media/Cake_2_candle.png": "/happybirthdayrina/static/media/Cake_2_candle.c05f3cfb905b8cd19813.png",
+    "static/media/Cake_6_candle.png": "/happybirthdayrina/static/media/Cake_6_candle.c05f3cfb905b8cd19813.png",
+    "static/media/Cake_1_no_candle.png": "/happybirthdayrina/static/media/Cake_1_no_candle.632fa3b785e85f7a3081.png",
+    "static/media/Happy-Birthday.png": "/happybirthdayrina/static/media/Happy-Birthday.bb061460029e3304348e.png",
+    "index.html": "/happybirthdayrina/index.html",
+    "main.2f42d482.css.map": "/happybirthdayrina/static/css/main.2f42d482.css.map",
+    "main.b2648979.js.map": "/happybirthdayrina/static/js/main.b2648979.js.map",
+    "453.5b464602.chunk.js.map": "/happybirthdayrina/static/js/453.5b464602.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f42d482.css",
+    "static/js/main.b2648979.js"
+  ]
+}
