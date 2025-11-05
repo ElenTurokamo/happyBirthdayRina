@@ -10,7 +10,7 @@ position: relative;
 }
 
 .birthday-text-image {
-  width: 1000px;              /* тот же размер, что у торта */
+  width: 800px;              /* тот же размер, что у торта */
   height: auto;
   user-select: none;
   image-rendering: crisp-edges;

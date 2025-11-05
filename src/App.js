@@ -28,7 +28,7 @@ export default function App() {
 
       <audio
         ref={audioRef}
-        src={require("./assets/birthday-song.mp3")}
+        src={require("../assets/birthday-song.mp3")}
         loop
       />
     </div>
