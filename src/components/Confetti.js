@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "./Confetti.css";
+import "../Confetti.css";
 
 export default function Confetti({
   pieces = 30,

@@ -1,15 +1,15 @@
 import React, { useEffect, useState } from "react";
-import "./Cake.css";
+import "../Cake.css";
 
 export default function Cake({ blown, onBlow }) {
   const frames = [
-    require("./sprites/Cake_1_candle.png"),
-    require("./sprites/Cake_2_candle.png"),
-    require("./sprites/Cake_3_candle.png"),
-    require("./sprites/Cake_4_candle.png"),
-    require("./sprites/Cake_5_candle.png"),
-    require("./sprites/Cake_6_candle.png"),
-    require("./sprites/Cake_7_candle.png"),
+    require("../sprites/Cake_1_candle.png"),
+    require("../sprites/Cake_2_candle.png"),
+    require("../sprites/Cake_3_candle.png"),
+    require("../sprites/Cake_4_candle.png"),
+    require("../sprites/Cake_5_candle.png"),
+    require("../sprites/Cake_6_candle.png"),
+    require("../sprites/Cake_7_candle.png"),
   ];
 
   const blownFrame = require("./sprites/Cake_1_no_candle.png");
