@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/happyBirthdayRina/static/css/main.2f42d482.css",
+    "main.css": "/happyBirthdayRina/static/css/main.9795ef6f.css",
     "main.js": "/happyBirthdayRina/static/js/main.a815bfbf.js",
     "static/js/453.5b464602.chunk.js": "/happyBirthdayRina/static/js/453.5b464602.chunk.js",
     "static/media/birthday-song.mp3": "/happyBirthdayRina/static/media/birthday-song.1e6b1ffb7c6953f4548d.mp3",
@@ -14,12 +14,12 @@
     "static/media/Cake_1_no_candle.png": "/happyBirthdayRina/static/media/Cake_1_no_candle.632fa3b785e85f7a3081.png",
     "static/media/Happy-Birthday.png": "/happyBirthdayRina/static/media/Happy-Birthday.bb061460029e3304348e.png",
     "index.html": "/happyBirthdayRina/index.html",
-    "main.2f42d482.css.map": "/happyBirthdayRina/static/css/main.2f42d482.css.map",
+    "main.9795ef6f.css.map": "/happyBirthdayRina/static/css/main.9795ef6f.css.map",
     "main.a815bfbf.js.map": "/happyBirthdayRina/static/js/main.a815bfbf.js.map",
     "453.5b464602.chunk.js.map": "/happyBirthdayRina/static/js/453.5b464602.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f42d482.css",
+    "static/css/main.9795ef6f.css",
     "static/js/main.a815bfbf.js"
   ]
 }
