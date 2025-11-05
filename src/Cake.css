@@ -1,0 +1,33 @@
+.cake-container {
+  display: flex;
+  justify-content: flex-end; /* прижимаем торт вправо */
+  align-items: center;
+  margin-top: 0px;
+  position: relative;
+  height: 500px; /* подгони под свой макет */
+  padding-right: 150px; /* отступ от правого края */
+}
+
+.cake-image {
+  width: 1000px;
+  height: auto;
+  user-select: none;
+  image-rendering: crisp-edges;
+  transition: opacity 0.3s ease;
+}
+
+.blow-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #ff69b4;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+  font-size: 18px;
+  transition: background 0.3s;
+}
+
+.blow-btn:hover {
+  background: #ff85c1;
+}

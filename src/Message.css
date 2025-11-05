@@ -1,0 +1,18 @@
+.birthday-text-container {
+position: relative;
+  display: flex;
+  justify-content: flex-start; /* зеркально торту — прижимаем влево */
+  align-items: center;
+  margin-top: 50px;
+  position: relative;
+  height: 400px; /* тот же размер, что у торта */
+  padding-left: 200px; /* симметрично padding-right у торта */
+}
+
+.birthday-text-image {
+  width: 1000px;              /* тот же размер, что у торта */
+  height: auto;
+  user-select: none;
+  image-rendering: crisp-edges;
+  animation: fadeIn 1.5s ease forwards;
+}
