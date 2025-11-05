@@ -1,6 +1,6 @@
 import React from "react";
-import "../Message.css";
-import birthdayImage from "../sprites/Happy-Birthday.png";
+import "./Message.css";
+import birthdayImage from "./sprites/Happy-Birthday.png";
 
 export default function Message() {
   return (
