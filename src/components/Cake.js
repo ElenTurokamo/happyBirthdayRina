@@ -12,7 +12,7 @@ export default function Cake({ blown, onBlow }) {
     require("../sprites/Cake_7_candle.png"),
   ];
 
-  const blownFrame = require("./sprites/Cake_1_no_candle.png");
+  const blownFrame = require("../sprites/Cake_1_no_candle.png");
   const [frame, setFrame] = useState(0);
 
   // 🔥 анимация пламени
