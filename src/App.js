@@ -1,8 +1,8 @@
 import React, { useEffect, useRef, useState } from "react";
-import Cake from "../components/Cake.js";
-import Confetti from "../components/Confetti.js";
-import Message from "../components/Message.js";
-import "../App.css";
+import Cake from "./components/Cake.js";
+import Confetti from "./components/Confetti.js";
+import Message from "./components/Message.js";
+import "./App.css";
 
 export default function App() {
   const [blown, setBlown] = useState(false);
